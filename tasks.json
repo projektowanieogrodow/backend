@@ -1,0 +1,46 @@
+[
+    {
+        "id": 2,
+        "title": "Odrobić zadanie z backendu",
+        "description": "Stworzyć REST API dla TODO list w PHP",
+        "completed": true,
+        "createdAt": "2024-11-14T15:30:00+01:00",
+        "updatedAt": "2024-11-15T10:00:00+01:00"
+    },
+    {
+        "id": 3,
+        "title": "Umówić się do lekarza",
+        "description": "Kontrolna wizyta u dentysty",
+        "completed": false,
+        "createdAt": "2024-11-13T12:15:00+01:00"
+    },
+    {
+        "id": 4,
+        "title": "Przygotować prezentację",
+        "description": "Prezentacja dla zespołu o postępach w projekcie",
+        "completed": false,
+        "createdAt": "2024-11-12T09:45:00+01:00"
+    },
+    {
+        "id": 5,
+        "title": "Przeczytać książkę",
+        "description": "Dokończyć rozdział 5 z książki o PHP",
+        "completed": true,
+        "createdAt": "2024-11-10T18:20:00+01:00",
+        "updatedAt": "2024-11-14T20:30:00+01:00"
+    },
+    {
+        "id": 6,
+        "title": "Nauczyć się Postmana",
+        "description": "Przetestować wszystkie endpointy API",
+        "completed": false,
+        "createdAt": "2025-11-15T18:19:25+01:00"
+    },
+    {
+        "id": 7,
+        "title": "Nauczyć się Postmana",
+        "description": "Przetestować wszystkie endpointy API",
+        "completed": false,
+        "createdAt": "2025-11-16T08:15:50+01:00"
+    }
+]
